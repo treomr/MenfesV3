@@ -474,45 +474,6 @@ return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}cerpen-bahasadaerah
 ┃▢ ${prefix}cerpen-anak
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 ❳
-┃▢ ${prefix}yuri
-┃▢ ${prefix}ero
-┃▢ ${prefix}foot
-┃▢ ${prefix}ass
-┃▢ ${prefix}cuckold
-┃▢ ${prefix}cum
-┃▢ ${prefix}hentai
-┃▢ ${prefix}gangbang
-┃▢ ${prefix}femdom
-┃▢ ${prefix}ahegao
-┃▢ ${prefix}glasses
-┃▢ ${prefix}jahy
-┃▢ ${prefix}orgy
-┃▢ ${prefix}pussy
-┃▢ ${prefix}thighs
-┃▢ ${prefix}panties
-┃▢ ${prefix}thighs
-┃▢ ${prefix}masturbation
-┃▢ ${prefix}chiisaihentai
-┃▢ ${prefix}trap
-┃▢ ${prefix}blowjob
-┃▢ ${prefix}yaoi
-┃▢ ${prefix}ecchi
-┃▢ ${prefix}hentai
-┃▢ ${prefix}ahegao
-┃▢ ${prefix}hololewd
-┃▢ ${prefix}sideoppai
-┃▢ ${prefix}animefeets
-┃▢ ${prefix}animebooty
-┃▢ ${prefix}animethighss
-┃▢ ${prefix}hentaiparadise
-┃▢ ${prefix}animearmpits
-┃▢ ${prefix}hentaifemdom
-┃▢ ${prefix}lewdanimegirls
-┃▢ ${prefix}biganimetiddies
-┃▢ ${prefix}animebellybutton
-┃▢ ${prefix}hentai4everyone
-┣━━━━━━━━━━━━━━
 ┣━❲ 𝙎𝙊𝙐𝙉𝘿 𝙈𝙀𝙉𝙐 ❳
 ┃▢ ${prefix}sound1
 ┃▢ ${prefix}sound2
